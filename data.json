@@ -1,0 +1,65 @@
+{
+    "versions": [
+      {
+        "hero": {
+          "title": "Discover Innovative Solutions",
+          "subtitle": "Empowering your business with cutting-edge technology.",
+          "imageUrl": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg"
+        },
+        "features": [
+          { "icon": "https://img.icons8.com/color/96/000000/cloud.png", "title": "Scalable Infrastructure", "description": "Our solutions grow with your business, ensuring seamless scalability." },
+          { "icon": "https://img.icons8.com/color/96/000000/lock.png", "title": "Secure Systems", "description": "Top-notch security measures to protect your data." },
+          { "icon": "https://img.icons8.com/color/96/000000/customer-support.png", "title": "24/7 Support", "description": "Round-the-clock support to assist you whenever needed." }
+        ],
+        "cta": {
+          "text": "Get Started",
+          "link": "/get-started"
+        },
+        "testimonials": [
+          { "quote": "This service transformed our business.", "author": "John Doe, CEO" },
+          { "quote": "Incredible support and reliable infrastructure.", "author": "Jane Smith, CTO" }
+        ]
+      },
+      {
+        "hero": {
+          "title": "Transform Your Business",
+          "subtitle": "Achieve new heights with our expert solutions.",
+          "imageUrl": "https://images.pexels.com/photos/2760241/pexels-photo-2760241.jpeg"
+        },
+        "features": [
+          { "icon": "https://img.icons8.com/color/96/000000/settings.png", "title": "Customizable Services", "description": "Tailored solutions to meet your unique business needs." },
+          { "icon": "https://img.icons8.com/color/96/000000/analytics.png", "title": "Advanced Analytics", "description": "Gain insights with our advanced data analytics tools." },
+          { "icon": "https://img.icons8.com/color/96/000000/cloud-connection.png", "title": "Cloud Integration", "description": "Seamlessly integrate with cloud services for better efficiency." }
+        ],
+        "cta": {
+          "text": "Learn More",
+          "link": "/learn-more"
+        },
+        "testimonials": [
+          { "quote": "Their analytics tools are second to none.", "author": "Alice Johnson, Data Scientist" },
+          { "quote": "Customizable services helped us tailor solutions to our needs.", "author": "Bob Brown, Project Manager" }
+        ]
+      },
+      {
+        "hero": {
+          "title": "Next-Generation Solutions",
+          "subtitle": "Innovate and grow with our state-of-the-art technology.",
+          "imageUrl": "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg"
+        },
+        "features": [
+          { "icon": "https://img.icons8.com/color/96/000000/robot.png", "title": "AI & Machine Learning", "description": "Leverage AI to automate and enhance your processes." },
+          { "icon": "https://img.icons8.com/color/96/000000/internet-of-things.png", "title": "IoT Solutions", "description": "Connect and optimize with our IoT technology." },
+          { "icon": "https://img.icons8.com/color/96/000000/blockchain-technology.png", "title": "Blockchain Security", "description": "Enhance security with our blockchain solutions." }
+        ],
+        "cta": {
+          "text": "Contact Us",
+          "link": "/contact"
+        },
+        "testimonials": [
+          { "quote": "Their AI solutions boosted our productivity.", "author": "Chris Evans, COO" },
+          { "quote": "IoT integration made our operations seamless.", "author": "Diana Prince, Operations Manager" }
+        ]
+      }
+    ]
+  }
+  
